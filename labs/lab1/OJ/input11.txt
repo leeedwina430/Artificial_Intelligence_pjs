@@ -1,0 +1,8 @@
+2 2 14
+2 Start 37
+3 2 4
+3 3 52
+3 Goal 23
+3 Start 28
+Goal Start 58
+END
